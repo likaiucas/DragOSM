@@ -22,8 +22,6 @@
 - [Installation](#installation)
 - [Dataset: ReBO](#dataset-rebo)
 - [Quick Start](#quick-start)
-- [Results](#results)
-- [Code Structure](#code-structure)
 - [License](#license)
 - [Citation](#citation)
 - [Contact](#contact)

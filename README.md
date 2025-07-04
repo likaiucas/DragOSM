@@ -77,3 +77,5 @@ conda create -n dragosm python=3.8
 conda activate dragosm
 pip install torch torchvision
 # Install MMDetection and BONAI following their instructions
+
+#quick-start

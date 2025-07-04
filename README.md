@@ -32,14 +32,13 @@
 
 DragOSM is a new framework to accurately align and correct building roof and footprint labels in off-nadir (oblique) aerial images, especially where historical labels (e.g., from OpenStreetMap) are outdated or spatially misaligned. Our method formulates label correction as an interactive "dragging" process, introducing the novel concept of the **Alignment Token**, and adopts denoising training to robustly learn spatial offsets.
 
-<details>
-<summary>Click to expand for an intuitive task illustration</summary>
+
+
 
 <p align="center">
-  <img src="./images/model.png" alt="Model structure" width="80%">
+  <img src="./images/model.png" alt="Model structure" width="100%">
 </p>
 
-</details>
 
 For more details, see our paper:  
 **DragOSM: Aligning Building Roof and Footprint Labels with Off-Nadir Images** (IEEE TPAMI 2025)

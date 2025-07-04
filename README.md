@@ -3,13 +3,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="./image/icon.png" alt="DragOSM Logo" width="256" height="256">
+  <img src="./images/ICON.png" alt="DragOSM Logo" width="256" height="256">
   <h2 align="center">DragOSM: Aligning Building Roof and Footprint Labels with Off-Nadir Images</h2>
   <p align="center">
     Official codebase for our IEEE TPAMI 2025 paper.<br>
     <a href="https://arxiv.org/abs/your-arxiv-link">[Paper]</a> | <a href="https://github.com/likaiucas/DragOSM">[Project HomePage]</a>
     <br><br>
-    <img src="./image/model.png" alt="DragOSM Model Structure" width="80%">
+    <img src="./images/model.png" alt="DragOSM Model Structure" width="80%">
     <br>
     <i>DragOSM: Interactive Label Correction for Off-Nadir Aerial Imagery</i>
   </p>
@@ -40,7 +40,7 @@ DragOSM is a new framework to accurately align and correct building roof and foo
 <summary>Click to expand for an intuitive task illustration</summary>
 
 <p align="center">
-  <img src="./image/model.png" alt="Model structure" width="80%">
+  <img src="./images/model.png" alt="Model structure" width="80%">
 </p>
 
 </details>

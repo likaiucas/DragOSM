@@ -8,8 +8,6 @@
   <p align="center">
     Official codebase for our IEEE TPAMI 2025 paper.<br>
     <a href="https://arxiv.org/abs/your-arxiv-link">[Paper]</a> | <a href="https://github.com/likaiucas/DragOSM">[Project HomePage]</a>
-    <br><br>
-    <img src="./images/model.png" alt="DragOSM Model Structure" width="80%">
     <br>
     <i>DragOSM: Interactive Label Correction for Off-Nadir Aerial Imagery</i>
   </p>

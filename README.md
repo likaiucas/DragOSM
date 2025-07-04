@@ -21,7 +21,7 @@
 - [Key Contributions](#key-contributions)
 - [Installation](#installation)
 - [Dataset: ReBO](#dataset-rebo)
-- [Quick Start](#quick-start)
+- [Quick Start](#Quick Start)
 - [License](#license)
 - [Citation](#citation)
 - [Contact](#contact)

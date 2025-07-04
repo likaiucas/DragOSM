@@ -52,7 +52,7 @@ For more details, see our paper:
   We introduce the *alignment token* concept and formulate historical label correction as a two-step interactive dragging process for off-nadir images, solving the mismatch between outdated labels and current imagery.
 
 - **Denoising Training & Inference Scheme:**  
-  DragOSM uses dynamic Gaussian noise to simulate label displacements during training and learns to iteratively denoise and align annotations.
+  DragOSM uses dynamic Gaussian noise to simulate label displacements during training and learns to iteratively denoise and align annotations. DragOSM interprets the positional perturbation of OSM labels as a Gaussian process centered at the ground truth, rather than starting from structureless noise as in diffusion-based approaches. During multi-step inference, the correction process is modeled as the cumulative effect of Gaussian process differences.
 
 - **ReBO: A New Benchmark Dataset:**  
   We curated the Repairing Buildings in OSM (ReBO) dataset with over 179,000 buildings and detailed instance-level polygon corrections (roof, footprint, OSM) across 41 cities.

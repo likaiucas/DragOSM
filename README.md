@@ -21,7 +21,7 @@
 - [Key Contributions](#key-contributions)
 - [Installation](#installation)
 - [Dataset: ReBO](#dataset-rebo)
-- [Quick Start](#Quick Start)
+- [Quick Start](#quick-start)
 - [License](#license)
 - [Citation](#citation)
 - [Contact](#contact)
@@ -78,4 +78,11 @@ conda activate dragosm
 pip install torch torchvision
 # Install MMDetection and BONAI following their instructions
 ```
-# quick-start
+# Quick Start
+The descriptions for training and test are included in the default configs. 
+```bash
+# To Train
+bash tools/dist_train.sh configs/DragOSM/dragosm_vit_b_osmrand_intensity_snd_512_omni_ISRA_200.py
+# TO Test
+python test_offset.py
+```

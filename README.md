@@ -86,5 +86,16 @@ bash tools/dist_train.sh configs/DragOSM/dragosm_vit_b_osmrand_intensity_snd_512
 # TO Test
 python test_offset.py
 ```
-# License
-- [Citation](#citation)
+# Citation
+```
+@ARTICLE{li2025dragosm,
+  author={Li, Kai},
+  journal={}, 
+  title={DragOSM: Aligning Building Roof and Footprint Labels with Off-Nadir Images}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={},
+  keywords={},}
+```
+

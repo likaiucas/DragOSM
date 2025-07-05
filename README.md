@@ -22,7 +22,7 @@
 - [Installation](#installation)
 - [Dataset: ReBO](#dataset-rebo)
 - [Quick Start](#quick-start)
-- [License](#license)
+- [License](./LICENSE)
 - [Citation](#citation)
 - [Contact](#contact)
 
@@ -86,3 +86,5 @@ bash tools/dist_train.sh configs/DragOSM/dragosm_vit_b_osmrand_intensity_snd_512
 # TO Test
 python test_offset.py
 ```
+# License
+- [Citation](#citation)

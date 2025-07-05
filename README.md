@@ -83,7 +83,7 @@ pip install torch torchvision
 The dataset and statistics are avaliable with [Onedrive](https://portland-my.sharepoint.com/:u:/g/personal/kaili37-c_my_cityu_edu_hk/ETeEjpTKErlHhZPMriO_SkQBk8RPiFXlHFpMXvQd2oQ3ZQ?e=g9ba1g) and [BaiduDisk](https://pan.baidu.com/s/1UGk4WFC6zlUUyvLQycGfkw?pwd=hs6s).
 
 # Dataset Annotator
-We provide the annotator which can revise OSM data and review the predictions of DragOSM. You may find it here. 
+We provide the annotator which can revise OSM data and review the predictions of DragOSM. You may find it [here](./annotator). 
 
 
 # Quick Start

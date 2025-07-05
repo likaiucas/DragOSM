@@ -6,7 +6,7 @@
   <img src="./images/ICON.png" alt="DragOSM Logo" width="256" height="256">
   <h2 align="center">DragOSM: Aligning Building Roof and Footprint Labels with Off-Nadir Images</h2>
   <p align="center">
-    Official codebase for our IEEE TPAMI 2025 paper.<br>
+    Official codebase for DragOSM paper.<br>
     <a href="https://arxiv.org/abs/your-arxiv-link">[Paper]</a> | <a href="https://github.com/likaiucas/DragOSM">[Project HomePage]</a>
     <br>
     <i>DragOSM: Interactive Label Correction for Off-Nadir Aerial Imagery</i>
@@ -41,7 +41,7 @@ DragOSM is a new framework to accurately align and correct building roof and foo
 
 
 For more details, see our paper:  
-**DragOSM: Aligning Building Roof and Footprint Labels with Off-Nadir Images** (IEEE TPAMI 2025)
+**DragOSM: Aligning Building Roof and Footprint Labels with Off-Nadir Images**
 
 ---
 
@@ -78,6 +78,9 @@ conda activate dragosm
 pip install torch torchvision
 # Install MMDetection and BONAI following their instructions
 ```
+# Dataset ReBO
+The dataset and statistics are avaliable with [Onedrive](https://portland-my.sharepoint.com/:u:/g/personal/kaili37-c_my_cityu_edu_hk/ETeEjpTKErlHhZPMriO_SkQBk8RPiFXlHFpMXvQd2oQ3ZQ?e=g9ba1g) and [BaiduDisk](https://pan.baidu.com/s/1UGk4WFC6zlUUyvLQycGfkw?pwd=hs6s).
+
 # Quick Start
 The descriptions for training and test are included in the default configs. 
 ```bash

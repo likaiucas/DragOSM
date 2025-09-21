@@ -36,13 +36,9 @@ DragOSM is a new framework to accurately align and correct building roof and foo
 
 
 
-<p align="center">
-  <img src="./images/model.png" alt="Model structure" width="100%">
-</p>
-
 
 For more details, see our paper:  
-**DragOSM: Aligning Building Roof and Footprint Labels with Off-Nadir Images**
+**DragOSM: Extract Building Roofs and Footprints from Aerial Images by Aligning Historical Labels**
 
 ---
 
@@ -97,9 +93,9 @@ python test_offset.py
 # Citation
 ```
 @ARTICLE{li2025dragosm,
-  author={Li, Kai},
+  author={Li, Kai and Xingxing, Weng and Yupeng, Deng and Yu, Meng and Chao, Pang and Gui-Song， Xia and Xiangyu Zhao},
   journal={}, 
-  title={DragOSM: Aligning Building Roof and Footprint Labels with Off-Nadir Images}, 
+  title={DragOSM: Extract Building Roofs and Footprints from Aerial Images by Aligning Historical Labels}, 
   year={2025},
   volume={},
   number={},

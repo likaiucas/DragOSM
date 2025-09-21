@@ -43,6 +43,8 @@ For more details, see our paper:
 ---
 
 ## Key Contributions
+- **Problem Transformation:**
+  We reformulate polygonal building extraction as a task of aligning historical labels with the remote sensing imagery, thereby enabling a unified method that performs effectively on both near-nadir and off-nadir imagery.
 
 - **Alignment Token & Interactive Label Correction:**  
   We introduce the *alignment token* concept and formulate historical label correction as a two-step interactive dragging process for off-nadir images, solving the mismatch between outdated labels and current imagery.

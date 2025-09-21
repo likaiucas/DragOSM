@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <img src="./images/ICON.png" alt="DragOSM Logo" width="256" height="256">
-  <h2 align="center">DragOSM: Aligning Building Roof and Footprint Labels with Off-Nadir Images</h2>
+  <h2 align="center">DragOSM: Extract Building Roofs and Footprints from Aerial Images by Aligning Historical Labels</h2>
   <p align="center">
     Official codebase for DragOSM paper.<br>
     <a href="https://arxiv.org/abs/your-arxiv-link">[Paper]</a> | <a href="https://github.com/likaiucas/DragOSM">[Project HomePage]</a>
@@ -45,7 +45,6 @@ For more details, see our paper:
 ## Key Contributions
 
 - **Problem Transformation:**
-
   We reformulate polygonal building extraction as a task of aligning historical labels with the remote sensing imagery, thereby enabling a unified method that performs effectively on both near-nadir and off-nadir imagery.
 
 - **Alignment Token & Interactive Label Correction:**  

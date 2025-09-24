@@ -95,14 +95,14 @@ python test_offset.py
 ```
 # Citation
 ```
-@ARTICLE{li2025dragosm,
-  author={Li, Kai and Xingxing, Weng and Yupeng, Deng and Yu, Meng and Chao, Pang and Gui-Song， Xia and Xiangyu Zhao},
-  journal={}, 
-  title={DragOSM: Extract Building Roofs and Footprints from Aerial Images by Aligning Historical Labels}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={},
-  keywords={},}
+@misc{li2025dragosm,
+      title={DragOSM: Extract Building Roofs and Footprints from Aerial Images by Aligning Historical Labels}, 
+      author={Kai Li and Xingxing Weng and Yupeng Deng and Yu Meng and Chao Pang and Gui-Song Xia and Xiangyu Zhao},
+      year={2025},
+      eprint={2509.17951},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2509.17951}, 
+}
 ```
 

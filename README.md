@@ -7,7 +7,7 @@
   <h2 align="center">DragOSM: Extract Building Roofs and Footprints from Aerial Images by Aligning Historical Labels</h2>
   <p align="center">
     Official codebase for DragOSM paper.<br>
-    <a href="https://arxiv.org/abs/your-arxiv-link">[Paper]</a> | <a href="https://github.com/likaiucas/DragOSM">[Project HomePage]</a>
+    <a href="https://arxiv.org/abs/2509.17951">[Paper]</a> | <a href="https://github.com/likaiucas/DragOSM">[Project HomePage]</a>
     <br>
     <i>DragOSM: Interactive Label Correction for Off-Nadir Aerial Imagery</i>
   </p>

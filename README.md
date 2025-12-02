@@ -105,6 +105,3 @@ python test_offset.py
       url={https://arxiv.org/abs/2509.17951}, 
 }
 ```
-
-# Viewers
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=nFmoiyimWpfYYAXiFkmLqEFScKRiNtJsTyIRqlF9KZM"></script>

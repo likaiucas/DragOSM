@@ -28,13 +28,14 @@
 - [Contact](#contact)
 
 ---
+## Future Direction
+As an emerging research direction, I will introduce more potential research directions here after acceptance. 
 
 ## About DragOSM
 
 DragOSM is a new framework to accurately align and correct building roof and footprint labels in off-nadir (oblique) aerial images, especially where historical labels (e.g., from OpenStreetMap) are outdated or spatially misaligned. Our method formulates label correction as an interactive "dragging" process, introducing the novel concept of the **Alignment Token**, and adopts denoising training to robustly learn spatial offsets.
 
-## Future Direction
-As an emerging research direction, I will introduce more potential research directions here after acceptance. 
+
 
 
 
